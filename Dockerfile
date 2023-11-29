@@ -13,4 +13,4 @@ RUN npm install
 EXPOSE 8000
 
 # Command to run the application
-CMD ["node", "start"]
+CMD ["npm", "start"]
